@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Entorno
+.env
+.venv/
+env/
+
+# Claude
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
