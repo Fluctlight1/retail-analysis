@@ -76,7 +76,8 @@ Estilo minimalista con paleta coherente:
 - Small multiples por año
 - Violin + strip plot por segmento
 - Waterfall de profit por categoría
-- **PCA** — biplot, scree plot y heatmap de loadings
+
+
 
 ---
 
